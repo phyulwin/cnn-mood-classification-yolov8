@@ -25,8 +25,8 @@
 - Generates performance plots (loss, mAP, precision).
 - Exports the final model to ONNX format for deployment/interoperability.
 
-### GPU Check (`use_gpu.py`)
-- Verifies CUDA device availability and prints GPU name.
+### Making a Prediction (`predict_onnx.py`)
+- Tests the exported model by making a prediction on a test image.
 
 ---
 
@@ -40,6 +40,8 @@
 
 ### ONNX Export Support
 - Model can be exported for integration into non-PyTorch environments.
+- [Download model file here](./runs/train/yolo_mood/weights/best.onnx)  
+  *(If the link does not work, navigate to `runs/train/yolo_mood/weights/best.onnx` in project directory to access the model file.)*
 
 ### Subset Sampling for Speed
 - Enables fast prototyping on a smaller image set.

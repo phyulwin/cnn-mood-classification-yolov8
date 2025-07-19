@@ -15,6 +15,15 @@ Unlike the original paper's combined CNN architecture, this version streamlines 
 ### Validation Results
 [View validation results](docs/val_results.md)
 
+### Final Accuracy Metrics
+
+| Metric         | Value   |
+|----------------|---------|
+| Precision      | 76.6%   |
+| Recall         | 75.3%   |
+| mAP@0.5        | 81.2%   |
+| mAP@0.5:0.95   | 81.2%   |
+
 This project is based on the following research paper:  
 **[Building of a Convolutional Neuronal Network for the prediction of mood states through face recognition based on object detection with YOLOV8 and Python](https://ieeexplore.ieee.org/document/10372862)**
 
