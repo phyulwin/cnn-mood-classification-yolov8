@@ -1,5 +1,3 @@
-# CNN Mood Prediction
-
 ## Mood State Classification via Face Detection using YOLOv8
 
 This project implements a custom mood recognition system using the YOLOv8 object detection framework to classify facial expressions into seven emotional states: **Surprised, Fear, Disgust, Smug, Sad, Angry,** and **Neutral**.
