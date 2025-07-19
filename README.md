@@ -10,7 +10,7 @@ Unlike the original paper's combined CNN architecture, this version streamlines 
 [View project overview](docs/project_overview.md)
 
 ### Training Results
-[View validation results](docs/train_results.md)
+[View training results](docs/train_results.md)
 
 ### Validation Results
 [View validation results](docs/val_results.md)
@@ -34,7 +34,7 @@ URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10372862&isnumber=
 
 ## Dataset
 
-- [RAF-DB Dataset on Kaggle](https://www.kaggle.com/datasets/shuvoalok/raf-db-dataset)
+[RAF-DB Dataset on Kaggle](https://www.kaggle.com/datasets/shuvoalok/raf-db-dataset)
 
 ```
 @misc{LiDeng2017,
